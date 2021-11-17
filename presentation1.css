@@ -106,7 +106,7 @@ div div{
   display: flex;
   flex-flow: column;
   justify-content: flex-start;
-  padding: 20px;
+  padding: 50px;
   grid-row-gap: 0px;
 }
 
