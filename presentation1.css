@@ -134,6 +134,11 @@ div div{
   background-color: rgba(102,0,204, 0.5);
 }
 
+.example2 a {
+  text-align: end;
+  
+  background-color: burlywood;
+}
 .conclusion {
   grid-row: conclusion;
   background-color: rgba(255,102,102,0.5);
